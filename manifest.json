@@ -1,0 +1,26 @@
+{
+	"author": "AIBALJOSE",
+	"name": "Aibaljose",
+	"short_name": "Aibal",
+	"description": "web portal|  |Aibal Jose & Joyal Jose",
+	"orientation": "portrait",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "grey",
+	"theme_color": "#00FFFF",
+	"icons": [
+		{
+			"src": "imgs/12.png",
+			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+			"type": "image/png"
+		}
+	],
+	"manifest_version": 2,
+	"version": "0.2",
+	"applications": {
+		"gecko": {
+			"id": "aibaljosej@gmail.com"
+		}
+	}
+}
